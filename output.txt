@@ -1,0 +1,2 @@
+Cost for Minimum path : 1061109567
+Visiting Optimal Order : 
