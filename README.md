@@ -1,5 +1,5 @@
-# m-Vehicle Routing Problem with added constraint for Charging and Deadlines.
-C++ implementation of a Multiple-Vehicle Routing algorithm among certain pickup and drop locations of a certain job with constraints for charging(Electric Vehicles) 
+# m-Vehicle Routing Problem with added constraints for Jobs Carrying Capacity, Charge Availability(for EV's) and timing deadlines.
+C++ implementation of a Multiple-Vehicle Routing algorithm among certain pickup and drop locations.
 and deadlines for each vehicle to reach a certain drop location.
 
 ## Algorithm comprises of 2 sub-algorithms: 
